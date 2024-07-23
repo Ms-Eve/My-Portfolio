@@ -1,2 +1,2 @@
-# My-Portifolio
-# My-Portifolio
+# My-Portfolio
+# My-Portfolio
