@@ -683,6 +683,7 @@ section{
 
 .port-image img{
     width: 100%;
+    object-fit: cover;
     opacity: .5s;
     height: 100%;
     transition: .5s;
